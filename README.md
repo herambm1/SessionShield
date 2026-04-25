@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-**SessionShield**
-SessionShield is an adaptive security agent that detects and prevents session hijacking in real time. It analyzes user behavior, device fingerprints, request patterns, and sensitive actions to compute a dynamic risk score and enforce actions like allow, step-up verification, or block—while clearly explaining every decision.
+
+**SessionShield** is an adaptive security agent that detects and prevents session hijacking in real time. It analyzes user behavior, device fingerprints, request patterns, and sensitive actions to compute a dynamic risk score and enforce actions like allow, step-up verification, or block—while clearly explaining every decision.
 
 🛡️ SessionShield — Adaptive Session Security Agent
 🚀 Overview
